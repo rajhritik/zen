@@ -1,0 +1,94 @@
+/* ----------tag selector---------- */
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 8rem;
+    color: rebeccapurple;
+    padding: 1rem;
+}
+
+h2 {
+    font-size: 4rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ----------class selector---------- */
+
+.front-img {
+    width: 50%;
+}
+
+.welcome-text {
+    margin: 0px;
+}
+
+.motto {
+    margin-top: 0px;
+}
+
+.heading {
+    background-color: thistle;
+    height: 100vh;
+}
+
+.zen-img {
+    float: left;
+    width: 50%;
+}
+
+.zen-img2 {
+    float: right;
+    width: 50%;
+}
+
+.text {
+    margin-top: 10%;
+}
+
+.aboutzen {
+    overflow: auto;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.zenfacts {
+    background-color: black;
+    color: white;
+}
+
+.zenfacts1 {
+    background-color: white;
+    color: black;
+}
+
+.zenfacts2 {
+    background-color: black;
+    color: white;
+}
+
+.zenfacts3 {
+    background-color: white;
+    color: black;
+}
+
+/* ------id selector---------- */

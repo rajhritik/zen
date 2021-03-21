@@ -8,6 +8,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -34,21 +35,18 @@ p {
 
 /* ----------class selector---------- */
 
-.front-img {
-    width: 50%;
+.top-container {
+    background-color: thistle;
+    padding-top: 100px;
 }
 
-.welcome-text {
+.h-h1 {
     margin: 0px;
 }
 
-.motto {
-    margin-top: 0px;
-}
-
-.heading {
-    background-color: thistle;
-    height: 100vh;
+.h-h2 {
+    margin: 0px;
+    font-weight: 400;
 }
 
 .zen-img {
